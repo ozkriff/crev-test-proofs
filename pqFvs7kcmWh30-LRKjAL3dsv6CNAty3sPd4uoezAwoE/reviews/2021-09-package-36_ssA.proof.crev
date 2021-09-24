@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-24T08:48:20.428919744+03:00"
+from:
+  id-type: crev
+  id: pqFvs7kcmWh30-LRKjAL3dsv6CNAty3sPd4uoezAwoE
+  url: "https://github.com/ozkriff/crev-test-proofs"
+package:
+  source: "https://crates.io"
+  name: cgl
+  version: 0.2.3
+  digest: 0t8nbg9O1sl4H-NA7_52d3Ohxab4p3Ox5joaTzCaI2E
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  hfg fhfdg hfgh fdgh fdggh fgd
+----- SIGN CREV PROOF -----
+YtPB0dh3YonKh6DSbcLSl4lbfG2ufD7kSGiiULv5bRGvu88NfsGLl8OvcMt2ZX_hT6Ite2OJxQzyib6NrXo6Dg
+----- END CREV PROOF -----
+
